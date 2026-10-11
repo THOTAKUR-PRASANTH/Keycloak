@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn[standard]
+python-keycloak==7.1.1
+python-dotenv
+pydantic==2.13.4
+pydantic-settings
+requests==2.34.2
+httpx==0.28.1
+PyJWT
+jose[cryptography]

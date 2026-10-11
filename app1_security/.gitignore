@@ -1,0 +1,83 @@
+# =========================
+# Angular
+# =========================
+node_modules/
+dist/
+.angular/
+.cache/
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# Python / FastAPI
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv314/
+.venv/
+env/
+
+# Python Build Files
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FastAPI Environment
+.env
+
+# IDE Files
+.idea/
+.vscode/
+
+# SQLite (if used)
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+
+# =========================
+# Misc
+# =========================
+*.swp
+*.swo
